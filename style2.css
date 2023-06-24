@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=League+Spartan:wght@300;400&display=swap");
+
+.dummy {
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "League Spartan", sans-serif;
+}
+
+body{
+    /* background-color: black; */
+    background-image: url(./Images/Bg.svg);
+}
+
+nav{
+   
+    background-color: black;
+}
+
+.nav-items{
+    display: flex;
+    justify-content: flex-end;
+    flex-basis: 6%;
+    color: white;
+    font-family: "League Spartan";
+    font-size: 110%;
+    margin-right: 10px;
+    margin-top: -0.5%;
+}
+
+.x  
+{
+    padding: 1rem;
+}
+.inline
+{
+    inline-size: auto;
+}
+
+
